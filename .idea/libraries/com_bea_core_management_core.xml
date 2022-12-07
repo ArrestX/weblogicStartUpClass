@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.bea.core.management.core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/libs/com.bea.core.management.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/libs/com.oracle.weblogic.security.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/libs/com.oracle.weblogic.server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/libs/com.oracle.weblogic.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/libs/wls-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
